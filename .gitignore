@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+OpenCV-Mat/OpenCV-Mat.xcodeproj/project.xcworkspace
+OpenCV-Mat/OpenCV-Mat.xcodeproj/xcuserdata
